@@ -197,7 +197,7 @@ http://localhost:8000/api/v1/user
 ```
 
 * `POST /login`
-* `PUT /users`  ####(Admin Only)
+* `PUT /users`  (Admin Only)
 * `POST /logout`
 
 ---
