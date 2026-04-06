@@ -131,9 +131,9 @@ record {
 ##  Setup & Installation
 
 ```id="u1x3"
-git clone <your-repo-url>
+git clone < https://github.com/sam00008/Zorvyn-Project.git>
 cd backend
-npm install
+bun add
 ```
 
 ###  Environment Variables
