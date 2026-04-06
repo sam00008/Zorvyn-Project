@@ -14,6 +14,7 @@ bun install
     "mailgen": "^2.0.32",
     "mongoose": "^9.3.3",
     "nodemailer": "^8.0.4",
+    "cors": "^2.8.5",
     
 ```
 
